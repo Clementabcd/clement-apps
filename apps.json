@@ -1,17 +1,172 @@
 [
   {
-    "name": "Mon Éditeur HTML",
-    "description": "Éditeur HTML/CSS/JS avec aperçu en temps réel.",
-    "link": "https://mon-site.vercel.app/editor",
-    "icon": "code",
+    "name": "Traitement de texte avancé",
+    "description": "Éditez du texte et créez de magnifiques documents en un clin d'oeil.",
+    "link": "https://word-processor-app.vercel.app/",
+    "icon": "case-sensitive",
     "github": "https://github.com/moncompte/mon-editeur",
     "date": "2025-07-20"
   },
   {
-    "name": "Calculatrice",
-    "description": "Calculatrice simple et intuitive.",
-    "link": "https://mon-site.vercel.app/calculatrice",
+    "name": "SearchGenie - Moteur de Recherche IA Intelligent",
+    "description": "Recherchez des informations sur le web avec une IA intelligente qui comprend vos questions.",
+    "link": "https://search-genie.vercel.app/",
+    "icon": "search",
+    "date": "2025-05-20"
+  },
+  {
+    "name": "Calculatrice scientifique Liquid Glass",
+    "description": "Calculatrice simple et intuitive avec un magnifique style inspiré de Liquid Glass.",
+    "link": "https://clementabcd.github.io/Liquid-Glass-Scientific-Calculator/",
+    "github": "https://github.com/Clementabcd/Liquid-Glass-Scientific-Calculator",
     "icon": "calculator",
     "date": "2025-07-18"
+  },
+  {
+    "name": "Calculateur d'empreinte carbone",
+    "description": "Estimez votre empreinte carbone annuelle en kilos de CO2.",
+    "link": "https://calculateur-empreinte-carbone.vercel.app/",
+    "github": "https://github.com/Clementabcd/calculateur-empreinte-carbone",
+    "icon": "leaf",
+    "date": "2025-07-15"
+  },
+  {
+    "name": "Mon Portail d'Apps",
+    "description": "Portail regroupant mes applications web favorites.",
+    "link": "https://clement-apps.vercel.app/",
+    "github": "https://github.com/Clementabcd/clement-apps",
+    "icon": "layout-grid",
+    "date": "2025-07-15"
+  },
+  {
+    "name": "Editeur de Vidéos professionnel",
+    "description": "Editez vos vidéos, assemblez-les et créez facilement un montage.",
+    "link": "https://video-editor-pro-gamma.vercel.app/",
+    "icon": "video",
+    "date": "2025-07-10"
+  },
+  {
+    "name": "Editeur audio professionnel",
+    "description": "Editez vos fichiers audio (musique, voix, sons) pour obtenir une qualité exceptionnelle.",
+    "link": "https://audio-studio-pro-seven.vercel.app/",
+    "icon": "audio-lines",
+    "date": "2025-07-05"
+  },
+  {
+    "name": "Horloge analogique",
+    "description": "Horloge analogique professionnelle avec un magnifique style apersonnalisable et des outils uniques.",
+    "link": "https://web-analog-clock-two.vercel.app/",
+    "icon": "clock",
+    "date": "2025-06-30"
+  },
+  {
+    "name": "Mon Chatbot",
+    "description": "Chatbot interactif pour répondre à vos questions.",
+    "link": "https://mon-site.vercel.app/chatbot",
+    "icon": "chatbot",
+    "date": "2025-06-25"
+  },
+  {
+    "name": "Journal Emotionnel",
+    "description": "Suivez vos sentiments du jour et vos émotions.",
+    "link": "https://journal-emotionnel.vercel.app/",
+    "github": "https://github.com/Clementabcd/journal-emotionnel",
+    "icon": "square-activity",
+    "date": "2025-06-20"
+  },
+  {
+    "name": "Modern Kanban Board",
+    "description": "Tableau Kanban moderne pour organiser vos tâches.",
+    "link": "https://clementabcd.github.io/Modern-Kanban-Board/",
+    "github": "https://github.com/Clementabcd/Modern-Kanban-Board",
+    "icon": "square-dashed-kanban",
+    "date": "2025-06-18"
+  },
+  {
+    "name": "To-Do List Avancée",
+    "description": "Organisez vos tâches quotidiennes dans une magnifique application moderne simple à utiliser.",
+    "link": "https://clementabcd.github.io/Task-Master/",
+    "github": "https://github.com/Clementabcd/Task-Master",
+    "icon": "list-todo",
+    "date": "2025-06-16"
+  },
+  {
+    "name": "Dessiner un cercle parfait",
+    "description": "Essayez de dessiner un cercle le plus rond possible ; l'application notera votre dessin.",
+    "link": "https://draw-a-perfect-circle-five.vercel.app/",
+    "icon": "line-squiggle",
+    "date": "2025-06-20"
+  },
+  {
+    "name": "Jeu de Morpion IA",
+    "description": "Jouez contre l'IA au jeu du morpion.",
+    "link": "https://clementabcd.github.io/Morpion_fr/",
+    "github": "https://github.com/Clementabcd/Morpion_fr",
+    "icon": "gamepad",
+    "date": "2025-06-18"
+  },
+  {
+    "name": "Robot d'Indexation Éthique",
+    "description": "Un robot d'indexation éthique basé sur une interface graphique qui respecte les règles robots.txt et offre une indexation personnalisable.",
+    "link": "https://github.com/Clementabcd/ethical-web-crawler/blob/569120c1e6a410d2572dcaf391bbed0afcf70621/WebCrawler%20Installation.exe",
+    "github": "https://github.com/Clementabcd/ethical-web-crawler",
+    "icon": "scan",
+    "date": "2025-06-20"
+  },
+  {
+    "name": "Mon Gestionnaire de Tâches",
+    "description": "Application pour gérer vos tâches quotidiennes.",
+    "link": "https://mon-site.vercel.app/gestionnaire-taches",
+    "icon": "tasks",
+    "date": "2025-06-15"
+  },
+  {
+    "name": "Mon Lecteur de Flux RSS",
+    "description": "Lecteur de flux RSS pour suivre vos sites préférés.",
+    "link": "https://mon-site.vercel.app/lecteur-rss",
+    "icon": "rss",
+    "date": "2025-06-10"
+  },
+  {
+    "name": "Mon Gestionnaire de Mots de Passe",
+    "description": "Application sécurisée pour gérer vos mots de passe.",
+    "link": "https://mon-site.vercel.app/gestionnaire-mots-de-passe",
+    "icon": "password-manager",
+    "date": "2025-06-05"
+  },
+  {
+    "name": "Mon Gestionnaire de Notes",
+    "description": "Application pour prendre et organiser vos notes.",
+    "link": "https://mon-site.vercel.app/gestionnaire-notes",
+    "icon": "notes",
+    "date": "2025-06-01"
+  },
+  {
+    "name": "Mon Lecteur de Musique",
+    "description": "Lecteur de musique en ligne avec playlists.",
+    "link": "https://mon-site.vercel.app/lecteur-musique",
+    "icon": "music-player",
+    "date": "2025-05-28"
+  },
+  {
+    "name": "Mon Gestionnaire de Projets",
+    "description": "Application pour gérer vos projets et tâches associées.",
+    "link": "https://mon-site.vercel.app/gestionnaire-projets",
+    "icon": "project-manager",
+    "date": "2025-05-25"
+  },
+  {
+    "name": "Mon Outil de Visualisation de Données",
+    "description": "Application pour visualiser et analyser des données.",
+    "link": "https://mon-site.vercel.app/visualisation-donnees",
+    "icon": "data-visualization",
+    "date": "2025-05-15"
+  },
+  {
+    "name": "Mon Outil de Gestion de Budget",
+    "description": "Application pour suivre vos dépenses et gérer votre budget.",
+    "link": "https://mon-site.vercel.app/gestion-budget",
+    "icon": "budget-manager",
+    "date": "2025-05-10"
   }
 ]
