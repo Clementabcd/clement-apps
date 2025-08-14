@@ -60,10 +60,10 @@
     "date": "2025-06-30"
   },
   {
-    "name": "Mon Chatbot",
-    "description": "Chatbot interactif pour répondre à vos questions.",
-    "link": "https://mon-site.vercel.app/chatbot",
-    "icon": "chatbot",
+    "name": "AI Chatbot",
+    "description": "Chatbot interactif pour répondre à vos questions. Utilise l'IA (Grok) pour des réponses intelligentes.",
+    "link": "https://nextjs-ai-chatbot-theta-ashen-wchb5a824a.vercel.app/",
+    "icon": "bot",
     "date": "2025-06-25"
   },
   {
@@ -83,7 +83,7 @@
     "date": "2025-06-18"
   },
   {
-    "name": "To-Do List Avancée",
+    "name": "Gestionnaire de Tâches Avancée",
     "description": "Organisez vos tâches quotidiennes dans une magnifique application moderne simple à utiliser.",
     "link": "https://clementabcd.github.io/Task-Master/",
     "github": "https://github.com/Clementabcd/Task-Master",
@@ -96,6 +96,36 @@
     "link": "https://draw-a-perfect-circle-five.vercel.app/",
     "icon": "line-squiggle",
     "date": "2025-06-20"
+  },
+  {
+    "name": "CryptoSecure Pro - Cryptage de messages",
+    "description": "Cryptez des messages importants et protégez-les avec un mot de passe.",
+    "link": "https://cryptosecure-pro.vercel.app/",
+    "github": "https://github.com/Clementabcd/cryptosecure-pro",
+    "icon": "message-square-lock",
+    "date": "2025-06-22"
+  },
+  {
+    "name": "Convertisseur Intelligent tout-en-un",
+    "description": "Convertissez facilement et rapidement dans des unités différentes.",
+    "link": "https://multilingual-converter.vercel.app/",
+    "github": "https://github.com/Clementabcd/multilingual-converter",
+    "icon": "badge-euro",
+    "date": "2025-06-12"
+  },
+  {
+    "name": "Machine à Excuses",
+    "description": "Générez des excuses amusantes pour toutes les occasions.",
+    "link": "https://excuse-generator-iota.vercel.app/",
+    "icon": "message-square-text",
+    "date": "2025-06-08"
+  },
+  {
+    "name": "Assistant d'Epargne",
+    "description": "Définissez des objectifs d'épargne, suivez les progrès avec des visualisations attrayantes, et tenez un journal des économies.",
+    "link": "https://savings-goal-tracker-ten.vercel.app/",
+    "icon": "piggy-bank",
+    "date": "2025-06-08"
   },
   {
     "name": "Jeu de Morpion IA",
@@ -114,59 +144,62 @@
     "date": "2025-06-20"
   },
   {
-    "name": "Mon Gestionnaire de Tâches",
-    "description": "Application pour gérer vos tâches quotidiennes.",
-    "link": "https://mon-site.vercel.app/gestionnaire-taches",
-    "icon": "tasks",
+    "name": "Tableaux Kanban Pro",
+    "description": "Tableaux Kanban professionnels pour organiser vos projets et tâches.",
+    "link": "#",
+    "icon": "square-dashed-kanban",
     "date": "2025-06-15"
   },
   {
-    "name": "Mon Lecteur de Flux RSS",
-    "description": "Lecteur de flux RSS pour suivre vos sites préférés.",
-    "link": "https://mon-site.vercel.app/lecteur-rss",
-    "icon": "rss",
+    "name": "Générateur d'idées aléatoires",
+    "description": "Générez des idées aléatoires pour vos projets ou activités.",
+    "link": "https://random-idea-generator-theta.vercel.app/",
+    "github": "https://github.com/Clementabcd/random-idea-generator",
+    "icon": "shuffle",
     "date": "2025-06-10"
   },
   {
-    "name": "Mon Gestionnaire de Mots de Passe",
-    "description": "Application sécurisée pour gérer vos mots de passe.",
-    "link": "https://mon-site.vercel.app/gestionnaire-mots-de-passe",
-    "icon": "password-manager",
+    "name": "Calculateur de déchets personnels",
+    "description": "Estimez la quantité de déchets que vous produisez chaque année.",
+    "link": "https://waste-calculator-ivory.vercel.app/",
+    "github": "https://github.com/Clementabcd/waste-calculator",
+    "icon": "trash-2",
+    "date": "2025-06-15"
+  },
+  {
+    "name": "Simulateur de dés",
+    "description": "Simulez le lancer de dés avec des options personnalisables.",
+    "link": "https://dice-simulator-delta.vercel.app/",
+    "icon": "dices",
+    "date": "2025-06-12"
+  },
+  {
+    "name": "Compteur inversé",
+    "description": "Comptez à rebours jusqu'à un événement important.",
+    "link": "https://countdown-timer-zeta-two.vercel.app/",
+    "github": "https://github.com/Clementabcd/countdown-timer",
+    "icon": "timer",
     "date": "2025-06-05"
   },
   {
-    "name": "Mon Gestionnaire de Notes",
-    "description": "Application pour prendre et organiser vos notes.",
-    "link": "https://mon-site.vercel.app/gestionnaire-notes",
-    "icon": "notes",
-    "date": "2025-06-01"
+    "name": "Mur de Pensées",
+    "description": "Partagez vos pensées et idées avec le monde.",
+    "link": "https://thought-wall.vercel.app/",
+    "icon": "brain",
+    "date": "2025-05-25"
   },
   {
     "name": "Mon Lecteur de Musique",
     "description": "Lecteur de musique en ligne avec playlists.",
-    "link": "https://mon-site.vercel.app/lecteur-musique",
+    "link": "#",
     "icon": "music-player",
     "date": "2025-05-28"
   },
   {
-    "name": "Mon Gestionnaire de Projets",
-    "description": "Application pour gérer vos projets et tâches associées.",
-    "link": "https://mon-site.vercel.app/gestionnaire-projets",
-    "icon": "project-manager",
-    "date": "2025-05-25"
-  },
-  {
     "name": "Mon Outil de Visualisation de Données",
     "description": "Application pour visualiser et analyser des données.",
-    "link": "https://mon-site.vercel.app/visualisation-donnees",
+    "link": "#",
     "icon": "data-visualization",
     "date": "2025-05-15"
-  },
-  {
-    "name": "Mon Outil de Gestion de Budget",
-    "description": "Application pour suivre vos dépenses et gérer votre budget.",
-    "link": "https://mon-site.vercel.app/gestion-budget",
-    "icon": "budget-manager",
-    "date": "2025-05-10"
   }
 ]
