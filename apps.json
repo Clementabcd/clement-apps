@@ -189,17 +189,24 @@
     "date": "2025-05-25"
   },
   {
-    "name": "Mon Lecteur de Musique",
-    "description": "Lecteur de musique en ligne avec playlists.",
-    "link": "#",
-    "icon": "music-player",
-    "date": "2025-05-28"
+    "name": "Application de Notes", 
+    "description": "Prenez des notes, enregistrez et organisez-les facilement, directement sur le web. Une version pour téléphone est disponible en version bêta : https://github.com/Clementabcd/NotesApp-Phone/releases.", 
+    "link": "https://notes-web-pro.vercel.app/", 
+    "icon": "notepad-text", 
+    "date": "2025-08-25" 
   },
   {
-    "name": "Mon Outil de Visualisation de Données",
-    "description": "Application pour visualiser et analyser des données.",
-    "link": "#",
-    "icon": "data-visualization",
-    "date": "2025-05-15"
+    "name": "Gestionnaire de Listes", 
+    "description": "Gérez facilement et créez des listes, organisez vos items directement sur le web.", 
+    "link": "https://gestionnaire-listes.vercel.app/", 
+    "icon": "notebook-pen", 
+    "date": "2025-08-29" 
+  },
+  {
+    "name": "Quiz mathématiques", 
+    "description": "Testez vos connaissances sur les tables de multiplications, divisions, additions et soustractions, ou apprenez-les en vous amusant.", 
+    "link": "https://multiplication-tables-learning-app.vercel.app/", 
+    "icon": "circle-x", 
+    "date": "2025-08-31" 
   }
 ]
